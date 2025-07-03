@@ -1,5 +1,5 @@
 {
-  "name": "validador_email_js",
+"name": "validador-email-js",
   "version": "1.0.0",
   "description": "Validador de emails em JavaScript com interface web, código modular, testes automatizados e CI/CD no GitHub Actions.",
   "main": "cod/emailValidator.js",

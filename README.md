@@ -30,3 +30,11 @@ Richard Souza - richardwillianmirandadesouza@gmail.com
 ## Licença
 
 MIT
+
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Rw110299/validador_email_js)
+![GitHub issues](https://img.shields.io/github/issues/Rw110299/validador_email_js)
+![GitHub license](https://img.shields.io/github/license/Rw110299/validador_email_js)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Rw110299/validador_email_js/node.yml)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Rw110299/validador_email_js)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Rw110299/validador_email_js/node.yml)
